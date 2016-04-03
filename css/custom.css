@@ -1,0 +1,23 @@
+.navbar .navbar-default .navbar-static-top .navbar-collapse {
+
+}
+.navbar-name {
+	color:#00b3af;
+	font-family:cursive;
+	font-size:2em;
+}
+
+header {
+	position:relative;
+	background-image:url("https://farm2.staticflickr.com/1513/25560839633_c997bc0c89_b.jpg");
+	background-repeat:no-repeat;
+	min-height:auto;
+	width:100%;
+	text-align:center;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	padding-bottom:20%;
+	padding-top: 20%;
+} 
